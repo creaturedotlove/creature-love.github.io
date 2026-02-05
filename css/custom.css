@@ -1,0 +1,22 @@
+p {
+    text-align: center;
+}
+.landing {
+    height: 95vh;
+    width: 95vw;
+}
+
+.logo {
+    max-height: 33vh;
+}
+
+.container-centered {
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+
+    flex-direction: column;
+
+    margin: auto;
+}
