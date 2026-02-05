@@ -1,6 +1,12 @@
 p {
     text-align: center;
 }
+
+footer {
+    color: grey;
+    font-size: small;
+}
+
 .landing {
     height: 95vh;
     width: 95vw;
